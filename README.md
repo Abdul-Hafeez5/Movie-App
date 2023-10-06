@@ -1,7 +1,9 @@
 # Movie App
 
- Build a beautiful movie App by fetching data from API.
- 
- Search functionality is added to search any movie or serial.
+Build a beautiful movie App by styling through pure CSS.
 
- It is fully Responsive on all Devices.
+movies are fetched from API.
+
+Search functionality is also added to search different movies or TV Serials.
+
+Site is fully Responsive on all Devices.
